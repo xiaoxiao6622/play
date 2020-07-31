@@ -1,0 +1,75 @@
+{
+    "foods": [{
+            "storename": "COCO都可",
+            "storeid": "（西安砂之船店）",
+            "title": "奶茶三兄弟（大）",
+            "price": "￥9.8",
+            "discount": "7.6折",
+            "img": "img/proin_03.jpg",
+            "type": "精选特卖"
+        },
+        {
+            "storename": "汉堡王",
+            "storeid": "（西安万象汇餐厅）",
+            "title": "意式培根小皇...",
+            "price": "￥16",
+            "discount": "5.8折",
+            "img": "img/kc_03.jpg",
+            "type": "食品自提"
+        },
+        {
+            "storename": "悦豪云顶自助餐厅",
+            "storeid": "",
+            "title": "感恩回馈自助+套房+游泳",
+            "price": "￥688",
+            "discount": "1.9折",
+            "img": "img/zzc_03.jpg",
+            "type": "自助餐"
+        },
+        {
+            "storename": "姬颜氏美丽汇皮肤管理",
+            "storeid": "国宾中央...",
+            "title": "【清洁神器】韩国水氧小气...",
+            "price": "￥21",
+            "discount": "2.2折",
+            "img": "img/mr_03.jpg",
+            "type": "美容美发"
+        },
+        {
+            "storename": "鱼豆美蛙鱼头火锅",
+            "storeid": "悠悠茂店",
+            "title": "【717秒杀】精选四人餐",
+            "price": "￥99",
+            "discount": "3.2折",
+            "img": "img/hg_03.jpg",
+            "type": "火锅"
+        },
+        {
+            "storename": "北京老前门烤鸭",
+            "storeid": "高新店",
+            "title": "老门前烤鸭精品2人餐",
+            "price": "88",
+            "discount": "6.2折",
+            "img": "img/zc_03.jpg",
+            "type": "中餐"
+        },
+        {
+            "storename": "Home Box",
+            "storeid": "利君明天店",
+            "title": "8英寸韩系水果蛋糕5选1",
+            "price": "109",
+            "discount": "1折",
+            "img": "img/tp_03.jpg",
+            "type": "甜品饰品"
+        },
+        {
+            "storename": "Home ",
+            "storeid": "利君明天店",
+            "title": "22英寸",
+            "price": "109",
+            "discount": "1折",
+            "img": "img/tp_03.jpg",
+            "type": "甜品饰品"
+        }
+    ]
+}
